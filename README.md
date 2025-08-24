@@ -24,6 +24,7 @@ result= np.linalg.solve(A,B)
 print(result)
 ```
 
+
 ## Output:
 <img width="1298" height="848" alt="Screenshot 2025-08-24 201731" src="https://github.com/user-attachments/assets/096af37e-c20f-4171-9c36-e3f5ec6d6e9a" />
 
